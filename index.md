@@ -34,8 +34,8 @@ The tooltips mod reduces those giant text boxes, by putting less text in them.
 
 I’m not currently using these.
 
-*[Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
-*[Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
+* [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
+* [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
 
 I used to play with Twinge’s Balance Mod. It sticks very close to vanilla gameplay and difficulty, while trying to improve the balance and decision making.
 
