@@ -26,11 +26,11 @@ These mods make the game look and sound better.
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl)
 
-The shields mod is my original work, but the background mod is mostly compiled from other people’s work: I made rings for two planets, and added some other nice backgrounds I found on Google. None of the backgrounds are excessively bright or “splashy”.
+The background mod is mostly compiled from other background mods: I made rings for two planets, and added some other backgrounds I found on Google. None of the backgrounds are excessively bright or “splashy”.
 
 My music mod does not include the tracks, you’ll need to buy them. Step-by-step instructions are provided, including how you can customise it for your own music.
 
-The tooltips mod reduces those giant text boxes, by putting less text in them.
+The tooltips mod reduces those giant text boxes, by putting less text in them. The “Nope” mod just replaces “Resist” with “Nope”.
 
 
 ## Balance mods
