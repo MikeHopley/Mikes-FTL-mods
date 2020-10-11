@@ -22,6 +22,7 @@ These mods make the game look and sound better.
 * Mike’s background mod **link needed**
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
+* Nope mod **link needed**
 
 The shields mod is my original work, but the background mod is mostly compiled from other people’s work: I made rings for two planets, and added some other nice backgrounds I found on Google. None of the backgrounds are excessively bright or “splashy”.
 
