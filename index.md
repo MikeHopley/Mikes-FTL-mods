@@ -4,6 +4,8 @@
 
 These are the mods I use with FTL. I made some of them, but not others.
 
+You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods.
+
 ## Quality of life
 
 These mods remove some tedium from the game. They confer an *extremely* small advantage, which I consider irrelevant.
@@ -22,7 +24,7 @@ These mods make the game look and sound better.
 * Mike’s background mod **link needed**
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
-* Nope mod **link needed**
+* [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl)
 
 The shields mod is my original work, but the background mod is mostly compiled from other people’s work: I made rings for two planets, and added some other nice backgrounds I found on Google. None of the backgrounds are excessively bright or “splashy”.
 
@@ -52,6 +54,6 @@ I made these mods for doing challenge runs.
 
 “Broken shields” is intended for shieldless runs. It reduces all ships’ shield systems to level 1, just like Zoltan B.
 
-“No free reactor upgrades” removes all free reactor from events. You can still get the same event outcome, it just won’t give you the reactor power. This is handy for doing “No upgrade” runs, if you want to be a purist about the challenge.
+“No free reactor upgrades” removes all free reactor from events. You can still get the same event outcome, it just won’t give you the reactor power. This is handy for  “No upgrade” runs, if you feel purist about the challenge.
 
-“No reactor” is intended for purely Zoltan-powered runs. It removes all ships’ reactor power, and removes backup battery from the game. It also includes the “No free reactor upgrades” mod. This is probably the hardest challenge in FTL, and so far I’ve only completed it with Zoltan C.
+“No reactor” is intended for purely Zoltan-powered runs. It removes all ships’ reactor power, and removes backup battery from the game. It also includes the “No free reactor upgrades” mod. This is probably the hardest challenge in FTL. So far I’ve only completed it with Zoltan C.
