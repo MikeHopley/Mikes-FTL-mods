@@ -4,7 +4,7 @@
 
 These are the mods I use with FTL. I made some of them, but not others.
 
-## Quality of life mods
+## Quality of life
 
 These mods remove some tedium from the game. They confer an *extremely* small advantage, which I consider irrelevant.
 
