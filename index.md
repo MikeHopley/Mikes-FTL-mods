@@ -6,6 +6,12 @@ These are the mods I use with FTL. I made some of them, but not others.
 
 You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods.
 
+## Bundled together
+
+* Mike’s standard mods **link needed**
+
+For convenience, this is a bundle of all the mods I use in regular (non-challenge) runs. The copyrighted music is not included, so you will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
+
 ## Quality of life
 
 These mods remove some tedium from the game. They confer an *extremely* small advantage, which I consider irrelevant.
