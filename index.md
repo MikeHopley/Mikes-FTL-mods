@@ -10,7 +10,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 * Mike’s standard mods **link needed**
 
-For convenience, this is a bundle of all the mods I use in regular (non-challenge) runs. The copyrighted music is not included, so you will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
+For convenience, this is a bundle of all the mods I use in regular runs. The copyrighted music is not included, so you will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
 
 ## Quality of life
 
@@ -18,8 +18,9 @@ These mods remove some tedium from the game. They confer an *extremely* small ad
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
+* [Cheatengine table for FTL crew skills] **link needed**
 
-Cheatengine is not actually a mod, it’s an external program. I use the speedhack as a “fast forward” button.
+Cheatengine is not actually a mod, it’s an external program. I use the speedhack as a “fast forward” button. When training skills is tedious, I use the skill table for insta-training instead.
 
 ## Graphics and music
 
@@ -39,17 +40,6 @@ My music mod does not include the tracks, you’ll need to buy them. Step-by-ste
 The tooltips mod reduces those giant text boxes, by putting less text in them. The “Nope” mod just replaces “Resist” with “Nope”.
 
 
-## Balance mods
-
-I’m not currently using these.
-
-* [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
-* [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
-
-I used to play with Twinge’s Balance Mod. It sticks very close to vanilla gameplay and difficulty, while trying to improve the balance and decision making.
-
-Balance Mod Light is my modified version of Twinge’s Balance Mod. It mostly just reverts some changes.
-
 ## Challenge mods
 
 I made these mods for doing challenge runs.
@@ -62,4 +52,16 @@ I made these mods for doing challenge runs.
 
 “No free reactor upgrades” removes all free reactor from events. You can still get the same event outcome, it just won’t give you the reactor power. This is handy for  “No upgrade” runs, if you feel purist about the challenge.
 
-“No reactor” is intended for purely Zoltan-powered runs. It removes all ships’ reactor power, and removes backup battery from the game. It also includes the “No free reactor upgrades” mod. This is probably the hardest challenge in FTL. So far I’ve only completed it with Zoltan C.
+“No reactor” is intended for purely Zoltan-powered runs. It removes all ships’ reactor power, and removes backup battery from the game. It also includes the “No free reactor upgrades” mod.
+
+
+## Balance mods
+
+I’m not currently using these.
+
+* [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
+* [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
+
+I used to play with Twinge’s Balance Mod. It sticks very close to vanilla gameplay and difficulty, while trying to improve the balance and decision making.
+
+Balance Mod Light is my modified version of Twinge’s Balance Mod. It mostly just reverts some changes.
