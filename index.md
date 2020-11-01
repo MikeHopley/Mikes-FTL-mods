@@ -1,6 +1,6 @@
 # Mike's FTL mods
 
-**Work in progress, some links missing.**
+**---Work in progress, some links missing---**.
 
 These are the mods I use with FTL. I made some of them, but not others.
 
