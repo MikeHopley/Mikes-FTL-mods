@@ -1,6 +1,6 @@
 # Mike's FTL mods
 
-**---Work in progress, some links missing---**.
+**---Work in progress, some links missing---**
 
 These are the mods I use with FTL. I made some of them, but not others.
 
@@ -18,7 +18,7 @@ These mods remove some tedium from the game. They confer an *extremely* small ad
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
-* [Cheatengine table for FTL crew skills] **link needed**
+* [Cheatengine table for FTL crew skills] **---link needed---**
 
 Cheatengine is not actually a mod, it’s an external program. I use the speedhack as a “fast forward” button. When training skills is tedious, I use the skill table for insta-training instead.
 
@@ -28,7 +28,7 @@ These mods make the game look and sound better.
 
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599)
-* Mike’s background mod **link needed**
+* [Mike’s background mod] **---link needed---**
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl)
@@ -45,8 +45,8 @@ The tooltips mod reduces those giant text boxes, by putting less text in them. T
 I made these mods for doing challenge runs.
 
 * [Broken Shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
-* No free reactor upgrades **link needed**
-* No reactor **link needed**
+* [No free reactor upgrades] **---link needed---**
+* [No reactor] **---link needed---**
 
 “Broken shields” is intended for shieldless runs. It reduces all ships’ shield systems to level 1, just like Zoltan B.
 
