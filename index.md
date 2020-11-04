@@ -38,9 +38,8 @@ These mods make the game look and sound better.
 I made these mods for doing challenge runs.
 
 * [Broken Shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
-* [No free reactor upgrades] **---link needed---**
-* [No reactor] **---link needed---**
-
+* [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284)
+* [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008#p125008) (includes the previous mod)
 
 ## Balance mods
 
