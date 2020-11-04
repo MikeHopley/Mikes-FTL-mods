@@ -10,17 +10,16 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 * [Mike’s standard mods] **---link needed---**
 
-For convenience, this is a bundle of all the mods I use in regular runs. The copyrighted music is not included, so you will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
+This combines all the mods I use in regular runs. You will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
 
 ## Quality of life
 
-These mods remove some tedium from the game. They confer an *extremely* small advantage, which I consider irrelevant.
+These reduce tedium. They confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
-* [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
-* [Cheatengine table for FTL crew skills] **---link needed---**
+* [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
+* [Cheatengine table for FTL crew skills] **---link needed---** 
 
-Cheatengine is not actually a mod, it’s an external program. I use the speedhack as a “fast forward” button. When training skills is tedious, I use the skill table for insta-training instead.
 
 ## Graphics and music
 
