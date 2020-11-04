@@ -32,13 +32,13 @@ These mods make the game look and sound better.
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes] **---link needed---**
 * [Swarm Missile sound] **---link needed---**
-* [Hide Banner Ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910)
+* [Hide banner ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910)
 
 ## Challenge mods
 
 I made these mods for doing challenge runs.
 
-* [Broken Shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
+* [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
 * [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284)
 * [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008#p125008) (includes the previous mod)
 
@@ -46,5 +46,5 @@ I made these mods for doing challenge runs.
 
 I’m not currently using these, but I do like them.
 
-* [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
-* [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
+* [Twinge’s balance mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
+* [Balance mod light](https://mikehopley.github.io/Balance-Mod-Light/)
