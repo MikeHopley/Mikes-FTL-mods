@@ -12,7 +12,7 @@ This combines all the mods I use in regular runs (except Cheatengine). You will 
 
 ## Quality of life
 
-These reduce tedium. They confer an *extremely* small advantage, which I consider irrelevant.
+These reduce tedium. Fleet Pursuit and Cheatengine confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
 * [Better crew defaults] **---link needed---**
