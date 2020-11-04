@@ -45,7 +45,7 @@ I made these mods for doing challenge runs.
 
 ## Balance mods
 
-I’m not currently using these.
+I’m not currently using these, but I do like them.
 
 * [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
 * [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
