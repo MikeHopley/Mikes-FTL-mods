@@ -20,7 +20,7 @@ Some players prefer not to use Fleet Pursuit, and some might not want to buy the
 These reduce tedium. Fleet Pursuit and Cheatengine confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
-* [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013#p125013)
+* [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013)
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
 * [Cheatengine table for FTL crew skills] **---link needed---** 
 
@@ -33,7 +33,7 @@ These mods make the game look and sound better.
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599)
 * [Mike’s background mod] **---link needed---**
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
-* [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
+* [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
 * [Swarm missile sound] **---link needed---**
@@ -45,7 +45,7 @@ I made these mods for doing challenge runs.
 
 * [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
 * [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284)
-* [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008#p125008) (includes the previous mod)
+* [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008) (includes the previous mod)
 
 ## Balance mods
 
