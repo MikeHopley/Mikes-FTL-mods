@@ -31,13 +31,7 @@ These mods make the game look and sound better.
 * [Mike’s background mod] **---link needed---**
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
-* [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl)
-
-The background mod is mostly compiled from other background mods: I made rings for two planets, and added some other backgrounds I found on Google. None of the backgrounds are excessively bright or “splashy”.
-
-My music mod does not include the tracks, you’ll need to buy them. Step-by-step instructions are provided, including how you can customise it for your own music.
-
-The tooltips mod reduces those giant text boxes, by putting less text in them. The “Nope” mod just replaces “Resist” with “Nope”.
+* [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 
 
 ## Challenge mods
@@ -48,12 +42,6 @@ I made these mods for doing challenge runs.
 * [No free reactor upgrades] **---link needed---**
 * [No reactor] **---link needed---**
 
-“Broken shields” is intended for shieldless runs. It reduces all ships’ shield systems to level 1, just like Zoltan B.
-
-“No free reactor upgrades” removes all free reactor from events. You can still get the same event outcome, it just won’t give you the reactor power. This is handy for  “No upgrade” runs, if you feel purist about the challenge.
-
-“No reactor” is intended for purely Zoltan-powered runs. It removes all ships’ reactor power, and removes backup battery from the game. It also includes the “No free reactor upgrades” mod.
-
 
 ## Balance mods
 
@@ -61,7 +49,3 @@ I’m not currently using these.
 
 * [Twinge’s Balance Mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
 * [Balance Mod Light](https://mikehopley.github.io/Balance-Mod-Light/)
-
-I used to play with Twinge’s Balance Mod. It sticks very close to vanilla gameplay and difficulty, while trying to improve the balance and decision making.
-
-Balance Mod Light is my modified version of Twinge’s Balance Mod. It mostly just reverts some changes.
