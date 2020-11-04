@@ -20,7 +20,7 @@ Some players prefer not to use Fleet Pursuit, and some might not want to buy the
 These reduce tedium. Fleet Pursuit and Cheatengine confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
-* [Better crew defaults](https://www.dropbox.com/s/o4qg1bd2mpnq2a3/Better%20crew%20defaults%20v1.0.ftl?dl=0)
+* [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013#p125013)
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
 * [Cheatengine table for FTL crew skills] **---link needed---** 
 
