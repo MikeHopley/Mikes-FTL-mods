@@ -15,6 +15,7 @@ This combines all the mods I use in regular runs (except Cheatengine). You will 
 These reduce tedium. They confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
+* [Better crew defaults] **---link needed---**
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
 * [Cheatengine table for FTL crew skills] **---link needed---** 
 
@@ -29,6 +30,8 @@ These mods make the game look and sound better.
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
+* [Beam colour changes] **---link needed---**
+* [Swarm Missile sound] **---link needed---**
 
 
 ## Challenge mods
