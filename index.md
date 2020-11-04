@@ -20,7 +20,7 @@ Some players prefer not to use Fleet Pursuit, and some might not want to buy the
 These reduce tedium. Fleet Pursuit and Cheatengine confer an *extremely* small advantage, which I consider irrelevant.
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
-* [Better crew defaults] **---link needed---**
+* [Better crew defaults](https://www.dropbox.com/s/o4qg1bd2mpnq2a3/Better%20crew%20defaults%20v1.0.ftl?dl=0)
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
 * [Cheatengine table for FTL crew skills] **---link needed---** 
 
@@ -35,7 +35,7 @@ These mods make the game look and sound better.
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808#p124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
-* [Beam colour changes] **---link needed---**
+* [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
 * [Swarm missile sound] **---link needed---**
 * [Hide banner ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910)
 
