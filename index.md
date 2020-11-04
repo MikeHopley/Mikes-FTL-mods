@@ -1,7 +1,5 @@
 # Mike's FTL mods
 
-**---Work in progress, some links missing---**
-
 These are the mods I use with FTL. I made some of them, but not others.
 
 You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods.
