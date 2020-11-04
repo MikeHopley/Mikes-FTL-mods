@@ -36,7 +36,7 @@ These mods make the game look and sound better.
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
-* [Swarm missile sound] **---link needed---**
+* [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287)
 * [Hide banner ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910)
 
 ## Challenge mods
