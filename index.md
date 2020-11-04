@@ -7,6 +7,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 ## Bundled together
 
 * [Mike’s standard mods] **---link needed---**
+* [Mike’s standard mods, without Fleet Pursuit] **---link needed---**
 
 This combines all the mods I use in regular runs (except Cheatengine). You will need to follow the [instructions for my music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/).
 
