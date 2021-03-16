@@ -12,7 +12,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 This combines all the mods I use in regular runs. Some players prefer not to use Fleet Pursuit, and some might not want to buy the music; so I've provided versions without those.
 
-Aside from the optional Fleet Pursuit Indicator, this mod makes essentially zero gameplay changes. It does slightly tweak shield sizes and positions, so I guess you could technically call that a gameplay change.
+Aside from the optional Fleet Pursuit Indicator, this mod makes no gameplay changes.
 
 ## Quality of life
 
