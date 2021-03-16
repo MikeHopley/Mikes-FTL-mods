@@ -10,21 +10,26 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 * [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292)
 
-This combines all the mods I use in regular runs (except Cheatengine). Some players prefer not to use Fleet Pursuit, and some might not want to buy the music; so I've provided versions without those.
+This combines all the mods I use in regular runs. Some players prefer not to use Fleet Pursuit, and some might not want to buy the music; so I've provided versions without those.
+
+Aside from the optional Fleet Pursuit Indicator, this mod makes essentially zero gameplay changes. It does slightly tweak shield sizes and positions, so I guess you could technically call that a gameplay change.
 
 ## Quality of life
 
-These reduce tedium. Fleet Pursuit and Cheatengine confer an *extremely* small advantage, which I consider irrelevant.
+These reduce tedium. My standard mods bundle includes these two, though there is also a version without Fleet Pursuit:
 
 * [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
 * [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013)
-* [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/) (not actually a mod, but  an external program)
-* [Cheatengine table for FTL crew skills] **---link needed---** 
+
+Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
+
+* [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
+* [Cheatengine table for FTL crew skills] **---link needed---**
 
 
 ## Graphics and music
 
-These mods make the game look and sound better.
+These mods make the game look and sound better. They are included in my standard mods bundle.
 
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599)
@@ -38,7 +43,7 @@ These mods make the game look and sound better.
 
 ## Challenge mods
 
-I made these mods for doing challenge runs.
+I made these mods for doing challenge runs. They are **not** included in my standard mods bundle.
 
 * [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/)
 * [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284)
@@ -46,7 +51,7 @@ I made these mods for doing challenge runs.
 
 ## Balance mods
 
-I’m not currently using these, but I do like them.
+I’m not currently using these, but I do like them. They are **not** included in my standard mods bundle.
 
 * [Twinge’s balance mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page)
 * [Balance mod light](https://mikehopley.github.io/Balance-Mod-Light/)
