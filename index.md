@@ -10,7 +10,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 * [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.1)
 
-This combines all the mods I use in regular runs. Some players prefer not to use Fleet Pursuit, and some might not want to buy the music; so I've provided versions without those.
+This combines all the mods I use in regular runs. I provide versions without Fleet Pursuit, and without the music.
 
 Aside from the optional Fleet Pursuit Indicator, this mod makes no gameplay changes.
 
