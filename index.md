@@ -8,7 +8,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 ## Bundled together
 
-* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292)
+* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.1)
 
 This combines all the mods I use in regular runs. Some players prefer not to use Fleet Pursuit, and some might not want to buy the music; so I've provided versions without those.
 
@@ -33,7 +33,7 @@ These mods make the game look and sound better. They are included in my standard
 
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599)
-* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291)
+* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.1)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
