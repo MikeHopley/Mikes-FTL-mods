@@ -31,7 +31,7 @@ Cheatengine is not a mod, it's an external program. It can be used to speed up t
 
 These mods make the game look and sound better. They are included in my standard mods bundle.
 
-* [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736)
+* [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736) (version 1.2)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599)
 * [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.1)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
