@@ -36,7 +36,7 @@ These mods make the game look and sound better. They are included in my standard
 * [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.2)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808)
-* [Better item info](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37430) **-- not yet fully compatible with Smaller Tooltips, and not yet included in my mods bundle
+* [Better item info](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37430) **-- not yet fully compatible with Smaller Tooltips, and not yet included in my mods bundle**
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
 * [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287)
