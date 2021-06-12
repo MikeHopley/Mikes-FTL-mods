@@ -8,7 +8,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 ## Bundled together
 
-* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.2)
+* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.3)
 
 This combines all the mods I use in regular runs. I provide versions without Fleet Pursuit, and without the music.
 
@@ -33,10 +33,10 @@ These mods make the game look and sound better. They are included in my standard
 
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736) (version 1.2)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599) (version 1.4)
-* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.2)
+* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.3)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35680&p=124808)
-* [Better item info](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37430) **-- not yet fully compatible with Smaller Tooltips, and not yet included in my mods bundle**
+* [Better info, smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37855) (version 1.0)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
 * [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287)
