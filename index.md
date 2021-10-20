@@ -24,7 +24,7 @@ These reduce tedium. My standard mods bundle includes these two, though there is
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
 
 * [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
-* [Cheatengine table for FTL crew skills] **---link needed---**
+* [Cheatengine table for FTL crew skills](https://www.reddit.com/r/ftlgame/comments/qbzev0/convenient_crew_training_cheat_engine_table/)
 
 
 ## Graphics and music
