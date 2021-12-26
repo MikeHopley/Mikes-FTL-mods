@@ -8,7 +8,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 ## Bundled together
 
-* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.3)
+* [Mike’s standard mods](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36292) (version 1.4)
 
 This combines all the mods I use in regular runs. I provide versions without Fleet Pursuit, and without the music.
 
@@ -18,7 +18,7 @@ Aside from the optional Fleet Pursuit Indicator, this mod makes no gameplay chan
 
 These reduce tedium. My standard mods bundle includes these two, though there is also a version without Fleet Pursuit:
 
-* [Fleet pursuit indicator](https://subsetgames.com/forum/viewtopic.php?t=26289)
+* [Enhanced fleet pursuit](https://subsetgames.com/forum/viewtopic.php?f=11&t=38228)
 * [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013)
 
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
@@ -33,7 +33,7 @@ These mods make the game look and sound better. They are included in my standard
 
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736) (version 1.2)
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599) (version 1.4)
-* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.3)
+* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.4)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
 * [Better info, smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37855) (version 1.2)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
