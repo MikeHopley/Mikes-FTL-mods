@@ -16,9 +16,10 @@ Aside from the optional Fleet Pursuit Indicator, this mod makes no gameplay chan
 
 ## Quality of life
 
-These reduce tedium. My standard mods bundle includes these two, though there is also a version without Fleet Pursuit:
+These reduce tedium. My standard mods bundle includes them, and there is also a version without Fleet Pursuit:
 
 * [Enhanced fleet pursuit](https://subsetgames.com/forum/viewtopic.php?f=11&t=38228)
+* [Better info, smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37855) (version 1.2)
 * [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013)
 
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
@@ -35,7 +36,6 @@ These mods make the game look and sound better. They are included in my standard
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599) (version 1.4)
 * [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291) (version 1.4)
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/)
-* [Better info, smaller tooltips](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=37855) (version 1.2)
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl) (just replaces “Resist” with “Nope”)
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0)
 * [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287)
