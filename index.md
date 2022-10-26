@@ -22,8 +22,10 @@ Cheatengine is not a mod, it's an external program. It can be used to speed up t
 
 ## Graphics and music
 
-* [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736): gives a 3D effect to both player and enemy shields, and improves positioning
+If you install both of the first two mods here, make sure to load Pretty Shields **after** Graphical Fixes.
+
 * [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599): various fixes of small graphical errors
+* [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736): gives a 3D effect to both player and enemy shields, and improves positioning
 * [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291): much more visually lush backgrounds
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/): incorporates Ben Prunty's unofficial extended FTL album, plus one more track
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0): small changes to give individual beams a touch more character
