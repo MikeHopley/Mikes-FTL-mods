@@ -8,8 +8,6 @@ I prefer vanilla gameplay, without any balance changes. Unless stated otherwise,
 
 You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods. None of these mods require the Hyperspace modding API.
 
-Most of these links go to a page about the mod, on the Subset Games Forum, which lists the latest version number at the top. A few tiny mods are just a direct download link. For updates, you can compare your version with the forum page; I also announce updates on the FTL Discord.
-
 ## Quality of life
 
 * [Enhanced fleet pursuit](https://subsetgames.com/forum/viewtopic.php?f=11&t=38228): shows future fleet progress, including when it's delayed
