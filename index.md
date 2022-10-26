@@ -40,7 +40,7 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 
 These **do change gameplay**. They are only for doing specific challenge runs.
 
-* [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/): reduces all player ships' starting shield level to 1, for shieldless runs
+* [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/): reduces all player ships' starting shields level to 1, for shieldless runs
 * [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284): removes all free reactor rewards, for a "no reactor upgrades" challenge
 * [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008): includes the previous mod. Removes all reactor power from player ships, for reactorless runs. Yes, this is as insane as it sounds
 
