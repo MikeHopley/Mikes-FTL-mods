@@ -35,6 +35,7 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 ## Silly stuff
 
 * [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl): just replaces “Resist” with “Nope”
+* [Distraction Boys](https://www.dropbox.com/s/szmfnoplxytg1cd/Distraction%20boys.ftl?dl=0): when only the Boys can keep you satisfied. Just changes the augment text
 
 ## Challenge mods
 
