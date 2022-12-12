@@ -16,7 +16,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly.
 
-* [Setup guide video]([https://www.dropbox.com/s/vke9g73b11ous6f/FTL%20crew%20skills.CT?dl=0](https://youtu.be/deCC5JL9vLQ)): I recommend watching this. Getting CE working is a bit tricky without help.
+* [Setup guide video](https://youtu.be/deCC5JL9vLQ): I recommend watching this. Getting CE working is a bit tricky without help.
 * [Cheatengine homepage](https://www.cheatengine.org/)
 * [Cheatengine table for FTL crew skills](https://www.dropbox.com/s/vke9g73b11ous6f/FTL%20crew%20skills.CT?dl=0)
 
