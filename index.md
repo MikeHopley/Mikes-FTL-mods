@@ -14,10 +14,11 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 * [Better info + smaller tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38336): shows more detailed info, and optionally smaller tooltips
 * [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013): better initial crew placement (some still need moving)
 
-Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
+Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly.
 
-* [Cheatengine](https://www.reddit.com/r/ftlgame/comments/621w0b/training_speedhack_instructions_external_software/)
-* [Cheatengine table for FTL crew skills](https://www.reddit.com/r/ftlgame/comments/qbzev0/convenient_crew_training_cheat_engine_table/)
+* [Setup guide video](https://www.dropbox.com/s/vke9g73b11ous6f/FTL%20crew%20skills.CT?dl=0): I recommend watching this. Getting CE working is a bit tricky without help.
+* [Cheatengine homepage](https://www.cheatengine.org/)
+* [Cheatengine table for FTL crew skills](https://www.dropbox.com/s/vke9g73b11ous6f/FTL%20crew%20skills.CT?dl=0)
 
 
 ## Graphics and music
