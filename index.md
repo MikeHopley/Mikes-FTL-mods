@@ -35,7 +35,7 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 
 ## Silly stuff
 
-* [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl): just replaces “Resist” with “Nope”
+* [Nope mod](https://www.dropbox.com/s/lhw8fu4xry1nc8b/NOPE.ftl): just replaces “Resist” with “Nope”. Thanks Scott
 * [Cloning pop sound](https://www.dropbox.com/s/ycby5izvwhqkt13/Cloning%20pop%20sound.ftl?dl=0): clones POP out the vat. Made by Snorlaxxo, I think. Thanks Farb
 * [Distraction Boys](https://www.dropbox.com/s/szmfnoplxytg1cd/Distraction%20boys.ftl?dl=0): when only the Boys can keep you satisfied. Just changes the augment text
 
