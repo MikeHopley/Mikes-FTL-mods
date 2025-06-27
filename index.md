@@ -33,6 +33,7 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0): small changes to give individual beams a touch more character
 * [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287): just gives a distinct "whoosh" sound for the weapon
 * [Hide banner ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910): removes the Into the Breach advert from the game menu
+* [Hull 1 graphic](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=40101): makes Hull Laser 1 look slightly different from Hull Laser 2
 
 ## Silly stuff
 
