@@ -14,6 +14,7 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 * [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013): better initial crew placement (some still need moving)
 * [Better info + smaller tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38336): shows more detailed info, and optionally smaller tooltips
 * [Minimal drone tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38380): minimises drone tooltips at the cost of removing drone descriptions
+* [Easier Mini Beam](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=40102): lengthens player Mini Beam by 2 pixels, for easier 4-room swipes
 
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
 
