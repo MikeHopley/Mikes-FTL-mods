@@ -11,10 +11,10 @@ You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopi
 ## Quality of life
 
 * [Enhanced fleet pursuit](https://subsetgames.com/forum/viewtopic.php?f=11&t=38228): shows future fleet progress, including when it's delayed
-* [Better crew defaults](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013): better initial crew placement (some still need moving)
+* [Better crew defaults](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013): better initial crew placement (some still need moving)
 * [Better info + smaller tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38336): shows more detailed info, and optionally smaller tooltips
 * [Minimal drone tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38380): minimises drone tooltips at the cost of removing drone descriptions
-* [Easier Mini Beam](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=40102): lengthens player Mini Beam by 2 pixels, for easier 4-room swipes
+* [Easier Mini Beam](https://subsetgames.com/forum/viewtopic.php?f=11&t=40102): lengthens player Mini Beam by 2 pixels, for easier 4-room swipes
 
 Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
 
@@ -27,14 +27,14 @@ Cheatengine is not a mod, it's an external program. It can be used to speed up t
 
 If you install both of the first two mods here, make sure to load Pretty Shields **after** Graphical Fixes.
 
-* [Mike’s graphical fixes](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=35599): various fixes of small graphical errors
+* [Mike’s graphical fixes](https://subsetgames.com/forum/viewtopic.php?f=11&t=35599): various fixes of small graphical errors
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736): gives a 3D effect to both player and enemy shields, and improves positioning
-* [Mike’s background mod](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36291): much more visually lush backgrounds
+* [Mike’s background mod](https://subsetgames.com/forum/viewtopic.php?f=11&t=36291): much more visually lush backgrounds
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/): incorporates Ben Prunty's unofficial extended FTL album, plus one more track
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0): small changes to give individual beams a touch more character
-* [Swarm missile sound](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36287): just gives a distinct "whoosh" sound for the weapon
-* [Hide banner ad](http://www.subsetgames.com/forum/viewtopic.php?t=32910): removes the Into the Breach advert from the game menu
-* [Hull 1 graphic](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=40101): makes Hull Laser 1 look slightly different from Hull Laser 2
+* [Swarm missile sound](https://subsetgames.com/forum/viewtopic.php?f=11&t=36287): just gives a distinct "whoosh" sound for the weapon
+* [Hide banner ad](http://subsetgames.com/forum/viewtopic.php?t=32910): removes the Into the Breach advert from the game menu
+* [Hull 1 graphic](https://subsetgames.com/forum/viewtopic.php?f=11&t=40101): makes Hull Laser 1 look slightly different from Hull Laser 2
 
 ## Silly stuff
 
@@ -47,8 +47,8 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 These **do change gameplay**. They are only for doing specific challenge runs.
 
 * [Broken shields](https://www.reddit.com/r/ftlgame/comments/bq26to/broken_shields_mod/): reduces all player ships' starting shields level to 1, for shieldless runs
-* [No free reactor upgrades](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36284): removes all free reactor rewards, for a "no reactor upgrades" challenge
-* [No reactor](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008): removes all reactor power from player ships, for reactorless runs. Yes, this is as insane as it sounds
+* [No free reactor upgrades](https://subsetgames.com/forum/viewtopic.php?f=11&t=36284): removes all free reactor rewards, for a "no reactor upgrades" challenge
+* [No reactor](https://subsetgames.com/forum/viewtopic.php?f=11&t=36283&p=125008): removes all reactor power from player ships, for reactorless runs. Yes, this is as insane as it sounds
 
 ## Balance mods
 
