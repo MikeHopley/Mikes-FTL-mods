@@ -6,7 +6,7 @@ These are the mods I use with FTL. I made some of them, but not others.
 
 I prefer vanilla gameplay, without any balance changes. Unless stated otherwise, none of these mods change the gameplay.
 
-You will need [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods. None of these mods require the Hyperspace modding API.
+You will need [Slipstream Mod Manager](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=17102) to install mods. None of these mods require the Hyperspace modding API.
 
 ## Quality of life
 
@@ -33,7 +33,7 @@ If you install both of the first two mods here, make sure to load Pretty Shields
 * [Mike’s music mod](https://www.reddit.com/r/ftlgame/comments/agl0gx/music_mod/): incorporates Ben Prunty's unofficial extended FTL album, plus one more track
 * [Beam colour changes](https://www.dropbox.com/s/x0apzk1874gyyy4/Beam%20colour%20tweaks%20v1.0.ftl?dl=0): small changes to give individual beams a touch more character
 * [Swarm missile sound](https://subsetgames.com/forum/viewtopic.php?f=11&t=36287): just gives a distinct "whoosh" sound for the weapon
-* [Hide banner ad](http://subsetgames.com/forum/viewtopic.php?t=32910): removes the Into the Breach advert from the game menu
+* [Hide banner ad](https://subsetgames.com/forum/viewtopic.php?t=32910): removes the Into the Breach advert from the game menu
 * [Hull 1 graphic](https://subsetgames.com/forum/viewtopic.php?f=11&t=40101): makes Hull Laser 1 look slightly different from Hull Laser 2
 
 ## Silly stuff
