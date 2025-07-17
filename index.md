@@ -54,5 +54,5 @@ These **do change gameplay**. They are only for doing specific challenge runs.
 
 These **do change gameplay**. I’m not currently using them, but I do like them.
 
-* [Twinge’s balance mod](http://www.it-is-law.com/ftl-balance/index.php?title=Main_Page): a large number of subtle balance changes intended to improve the experience
+* [Twinge’s balance mod](https://www.darktwinge.com/ftl-balance/index.php?title=Main_Page): a large number of subtle balance changes intended to improve the experience
 * [Balance mod light](https://mikehopley.github.io/Balance-Mod-Light/): my modified version of the above, reverting many changes for a closer-to-vanilla feeling
