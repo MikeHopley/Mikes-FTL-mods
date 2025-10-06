@@ -10,13 +10,16 @@ You will need [Slipstream Mod Manager](https://www.subsetgames.com/forum/viewtop
 
 ## Quality of life
 
+The Fleet Pursuit and Easier Mini Beam mods are **technically** not 100% pure quality of life. See their individual pages for explanation.
+
 * [Enhanced fleet pursuit](https://subsetgames.com/forum/viewtopic.php?f=11&t=38228): shows future fleet progress, including when it's delayed
 * [Better crew defaults](https://subsetgames.com/forum/viewtopic.php?f=11&t=36285&p=125013): better initial crew placement (some still need moving)
 * [Better info + smaller tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38336): shows more detailed info, and optionally smaller tooltips
 * [Minimal drone tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38380): minimises drone tooltips at the cost of removing drone descriptions
 * [Easier Mini Beam](https://subsetgames.com/forum/viewtopic.php?f=11&t=40102): lengthens player Mini Beam by 2 pixels, for easier 4-room swipes
 
-Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly:
+Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly.
+Cheatengine is widely accepted for win streaking purposes, but there are discussions about potential misuse.
 
 * [Cheatengine setup guide](https://youtu.be/deCC5JL9vLQ): I recommend watching this. Getting CE working can be tricky without help.
 * [Cheatengine homepage](https://www.cheatengine.org/)
@@ -26,6 +29,8 @@ Cheatengine is not a mod, it's an external program. It can be used to speed up t
 ## Graphics and music
 
 If you install both of the first two mods here, make sure to load Pretty Shields **after** Graphical Fixes.
+
+The pretty shields mod **technically** 
 
 * [Mike’s graphical fixes](https://subsetgames.com/forum/viewtopic.php?f=11&t=35599): various fixes of small graphical errors
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736): gives a 3D effect to both player and enemy shields, and improves positioning
