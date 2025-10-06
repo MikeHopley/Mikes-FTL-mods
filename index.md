@@ -29,7 +29,7 @@ It is widely accepted for win streaking purposes, but there are discussions abou
 ## Graphics and music
 
 If you install both of the first two mods here, make sure to load Pretty Shields **after** Graphical Fixes.  
-The pretty shields mod **technically** changes gameplay due to slight differences in shield position. See the link for details.
+Pretty Shields mod **technically** changes gameplay due to slight differences in shield position. See the link for details.
 
 * [Mike’s graphical fixes](https://subsetgames.com/forum/viewtopic.php?f=11&t=35599): various fixes of small graphical errors
 * [Pretty shields](https://subsetgames.com/forum/viewtopic.php?t=32736): gives a 3D effect to both player and enemy shields, and improves positioning
