@@ -18,8 +18,8 @@ The Fleet Pursuit and Easier Mini Beam mods are **technically** not 100% pure qu
 * [Minimal drone tooltips](https://subsetgames.com/forum/viewtopic.php?f=11&t=38380): minimises drone tooltips at the cost of removing drone descriptions
 * [Easier Mini Beam](https://subsetgames.com/forum/viewtopic.php?f=11&t=40102): lengthens player Mini Beam by 2 pixels, for easier 4-room swipes
 
-Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly.
-Cheatengine is widely accepted for win streaking purposes, but there are discussions about potential misuse.
+Cheatengine is not a mod, it's an external program. It can be used to speed up the game or assign skills instantly.  
+It is widely accepted for win streaking purposes, but there are discussions about potential misuse.
 
 * [Cheatengine setup guide](https://youtu.be/deCC5JL9vLQ): I recommend watching this. Getting CE working can be tricky without help.
 * [Cheatengine homepage](https://www.cheatengine.org/)
